@@ -11,14 +11,10 @@ main:
 
   - title: "Certificates & Workshops"
     url: /certificates/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+
 
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+
