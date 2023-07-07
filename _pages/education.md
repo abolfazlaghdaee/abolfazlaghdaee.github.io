@@ -18,7 +18,7 @@ author_profile: true
    * Numerical Linear Algebra: 20/20
    * Algorithm Design: 19.36/20
    * Fundamental of Compiler: 19.45/20
-   * Data Bases: 17.55/20 (2nd best student)
+   * DataBase: 17.55/20 (2nd best student)
    * Eelectronic I: 20/20
    * Automata: 17.53/20 
    * Fundamental of Numerical Analysis: 18.5/20
