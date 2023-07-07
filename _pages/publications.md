@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Finding the Wiener graph of the Polythiophene and providing a third-degree polynomial for it.
+## Finding the Wiener graph of the Polythiophene and providing a third-degree polynomial for it.
 Abolfazl Aghdaee, [Dr. GH Fathtabar](https://scholar.google.com/citations?user=doa3Y-YAAAAJ&hl=en)
 
 _[$4^t{^h}$ Conference on Computational Algebra, Computational Number Theory and Applications](https://cacna2023.kashanu.ac.ir/en/index.php)_
