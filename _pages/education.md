@@ -16,13 +16,15 @@ author_profile: true
 - Highlighted Courses:
    * Fundamentals of Computer Programming Lab: 20/20
    * Numerical Linear Algebra: 20/20
-   * Algorithm Design: 19.36/20
+   * Operating Systems: 20/20
+   * Algorithm Design: 19.36/20 
    * Fundamental of Compiler: 19.45/20
    * DataBase: 17.55/20 (2nd best student)
    * Eelectronic I: 20/20
    * Automata: 17.53/20 
-   * Fundamental of Numerical Analysis: 18.5/20
-   * Probability I: 15/20 (2nd best student)
+   * Numerical Analysis: 18.5/20
+   * Fudamentals of Probability : 18.45/20
+
 
 ## Diploma in Mathematics and Physics at Haj Abbas Karim High School
 
