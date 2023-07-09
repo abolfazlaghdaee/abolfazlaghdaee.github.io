@@ -22,4 +22,5 @@ _[$4^t{^h}$ Conference on Computational Algebra, Computational Number Theory and
 
 
 > In this research, I have developed a novel algorithm using Python to determine the graph matrix of the Polythiophene. 
+
 July 2023
