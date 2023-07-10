@@ -4,12 +4,12 @@ title:  ""
 permalink: /certificates/
 author_profile: true
 ---
- ## Conference & Workshops
+## Conference & Workshops
 
 
 |                          |                                   |    
 |:------------------------:|:---------------------------------:|
-|![](/images/ut5.png)      |![](/images/InventionWorkshop.png) |
+|![afad](/images/ut55.png)      |![](/images/InventionWorkshop.png) |
 
 
 ## Certificates
@@ -18,5 +18,5 @@ author_profile: true
 |:---------------------------:|:-------------------------------:|:-----------------------------:|
 |![](/images/ANDREW1.png)     |    ![](/images/DSMichigan.png)  |  ![](/images/Udemy.png)       |
 |![](/images/MLKaggle.png)    |    ![](/images/PandasKaggle.png)|  ![](/images/VisualKaggle.png)|
-|![](/images/cSolo.png)       |    ![](/images/Aiforall.png)    |  ![](/images/type.png)        |
+|![](/images/)       |    ![](/images/Aiforall.png)    |  ![](/images/type.png)        |
 
