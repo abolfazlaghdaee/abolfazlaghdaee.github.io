@@ -9,14 +9,16 @@ author_profile: true
 
 |                          |                                   |    
 |:------------------------:|:---------------------------------:|
-|![](/images/)      |![](/images/ut55.png) |
+|![](/images/InventionWorkshop.png)      |![](/images/UT55.png) |
 
 
 ## Certificates
 
-|                             |                                 |                               |    
-|:---------------------------:|:-------------------------------:|:-----------------------------:|
-|![](/images/ANDREW1.png)     |    ![](/images/DSMichigan.png)  |  ![](/images/Udemy.png)       |
-|![](/images/MLKaggle.png)    |    ![](/images/PandasKaggle.png)|  ![](/images/VisualKaggle.png)|
-|![](/images/)       |    ![](/images/Aiforall.png)    |  ![](/images/type.png)        |
+|                               |                                 |                               |    
+|:-----------------------------:|:-------------------------------:|:-----------------------------:|
+|![](/images/andrew1.png)       |    ![](/images/DSMichigan.png)  |  ![](/images/Udemy.png)       |
+|![](/images/MLKaggle.png)      |    ![](/images/PandasKaggle.png)|  ![](/images/VisualKaggle.png)|
+|![](/images/intermediateML.png)|    ![](/images/Aiforall.png)    |  ![](/images/type.png)        |
+|![](/images/c++.png)|    ![](/images/.png)    |  ![](/images/t)        |
+
 
