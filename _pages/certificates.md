@@ -9,7 +9,7 @@ author_profile: true
 
 |                          |                                   |    
 |:------------------------:|:---------------------------------:|
-|![](/images/UT55.png.png)      |![](/images/InventionWorkshop.png) |
+|![](/images/UT55.png)      |![](/images/InventionWorkshop.png) |
 
 
 ## Certificates

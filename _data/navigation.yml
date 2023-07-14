@@ -9,12 +9,12 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Certificates & Workshops"
-    url: /certificates/
-
 
   - title: "Internships"
     url: /internship/    
+
+  - title: "Certificates & Workshops"
+    url: /certificates/
  
 
 
