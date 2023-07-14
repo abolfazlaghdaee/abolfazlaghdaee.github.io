@@ -1,8 +1,8 @@
 ---
-title: "Automata"
+title: "Theory of Computation"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/automata
+permalink: /teaching/TheoryofComputation
 venue: "University of Kashan, Department of Mathematics and Computer Science"
 date: 2023-01-10
 location: "Kashan"

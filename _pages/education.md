@@ -11,7 +11,7 @@ author_profile: true
 
 - Advisor: [Dr. Hasan Daghigh   ](https://faculty.kashanu.ac.ir/daghigh/en)
 
-- Total GPA: 3.45/4  
+- Total GPA: 3.54/4  
 
 - Highlighted Courses:
    * Fundamentals of Computer Programming Lab: 20/20
