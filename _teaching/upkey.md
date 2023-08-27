@@ -2,7 +2,7 @@
 title: "Upkey Internship "
 collection: internship
 type: "Internship"
-permalink: /internship/upkey
+permalink: /teaching/upkey
 venue: ""
 date: 2023-01-10
 location: "remote"
