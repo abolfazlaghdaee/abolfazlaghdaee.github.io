@@ -12,7 +12,7 @@ location: "Kashan"
 
 Instructor: Dr. Asaeedi
 
-*spring 2023*
+*Spring 2023*
 
 ## Responsibilities:
 - Teaching Students in the Class
