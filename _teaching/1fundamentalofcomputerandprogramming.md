@@ -3,7 +3,7 @@ title: "Fundamental of Computer and Programming"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/fundamentalofcomputerandprogramming
-venue: "University of Kashan, Department of Mathematics and Computer Science"
+venue: "University of Kashan, Department of Mathematics, Statictics and Computer Science"
 date: 2022-01-01
 location: "Kashan"
 ---
