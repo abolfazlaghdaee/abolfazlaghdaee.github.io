@@ -14,16 +14,20 @@ author_profile: true
 - **Total GPA: 3.54/4**  (Ranked $1^s{^t}$ among all students of B.Sc. in computer science entered in 2019 )
 
 - Highlighted Courses:
-   - Fundamentals of Computer Programming Lab: 20/20
-   - Numerical Linear Algebra: 20/20
-   - Operating Systems: 20/20
-   - Algorithm Design: 19.36/20 
-   - Numerical Analysis: 18.5/20
-   - Fudamentals of Probability : 18.45/20
-   - DataBase Lab: 18/20 
-   - Fundamentals of Compiler: 19.45/20
-   - Eelectronic I: 20/20
-   - Theory of Computation: 17.53/20 
+   - Fundamentals of Computer Programming & Lab: 4/4
+   - Numerical Linear Algebra: 4/4
+   - Operating Systems: 4/4
+   - Algorithm Design: 4/4
+   - Numerical Analysis: 4/4
+   - Fudamentals of Probability : 4/4
+   - DataBase Lab: 4/4
+   - DataBase: 4/4
+   - Fundamentals of Compiler: 4/4
+   - Eelectronic I: 4/4
+   - Theory of Computation: 4/4
+   - Introductory Linear Algebra & Matrices: 4/4
+   - Basics of Logic and Set Theory: 4/4
+   - Introduction to Combinatorics: 4/4
 
 
 ## Diploma in Mathematics and Physics at Haj Abbas Karim High School

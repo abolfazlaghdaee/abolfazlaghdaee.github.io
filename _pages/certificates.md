@@ -16,11 +16,11 @@ author_profile: true
 
 |                               |                                 |                               |    
 |:-----------------------------:|:-------------------------------:|:-----------------------------:|
-|![](/images/andrew1.png)       |    ![](/images/DSMichigan.png)  |  ![](/images/advancedML.png)       |
+|![](/images/andrew1.png)       |   ![](/images/advancedML.png)   |![](/images/DSMichigan.png)    |
 |![](/images/udemy.png)         |    ![](/images/Aiforall.png)    |  ![](/images/intermediateML.png)       |
 |![](/images/MLKaggle.png)      |    ![](/images/PandasKaggle.png)|  ![](/images/VisualKaggle.png)|
 |![](/images/MLsolo.jpg)        |    ![](/images/sql.png)         |  ![](/images/c++.png)         |
-|![](/images/type.png)          |        |                               |
+|![](/images/IntrotoDeepLearning.png)        |    ![](/images/type.png)    |                               |
 
   
 

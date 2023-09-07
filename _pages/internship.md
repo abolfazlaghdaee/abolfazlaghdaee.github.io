@@ -23,10 +23,10 @@ Regression, to tackle real-world data challenges.
 - I gained valuable hands-on experience in data manipulation, encompassing tasks such as data cleaning,
 transformation, and feature engineering, which significantly improved model performance and predictive
 accuracy.
-
 > Jun2023 – Jul 2023
 >
 > Energy Research Institute, University of Kashan, Kashan
+-----------------------
 
 ## [Upkey](https://drive.google.com/file/d/1-XOX1dySZ4QR7vfi11Hxo2gkxduBvVsX/view?usp=sharing)
 - During the internship, I actively pursued to enhance my soft skills like Marketing, Teamwork, Managerial
