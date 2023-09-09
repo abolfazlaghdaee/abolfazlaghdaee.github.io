@@ -12,7 +12,8 @@ author_profile: true
 - Web scraping by using the beautifulsoup library.
 - Defining classification models to predict customer buying behavior.
 > Aug 2023
-
+>
+> Virtual Program
 
 ***********************
 
@@ -25,13 +26,17 @@ transformation, and feature engineering, which significantly improved model perf
 accuracy.
 > Jun2023 – Jul 2023
 >
-> Energy Research Institute, University of Kashan, Kashan
------------------------
+> ### Energy Research Institute, University of Kashan, Kashan
+****************
+
 
 ## [Upkey](https://drive.google.com/file/d/1-XOX1dySZ4QR7vfi11Hxo2gkxduBvVsX/view?usp=sharing)
 - During the internship, I actively pursued to enhance my soft skills like Marketing, Teamwork, Managerial
 functions, and Entrepreneurship.
 >Aug 2021 – Sep 2021
+>
+> Virtual Program
+
 
 
 ____
@@ -40,3 +45,5 @@ ____
 - During the internship, We developed an APP that aids GameNet (a center for rental game consoles) staff in
 managing their customers better.
 > Jun 2019 – Aug 2019
+>
+> Kashan

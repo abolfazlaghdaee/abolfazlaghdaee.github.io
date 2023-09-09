@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-## [CV](/404.html)
+### For access my CV, please send me a [request!](mailto:aghdaeeabolfazl@gmail.com)
 <!-- 
 {% include base_path %}
 
