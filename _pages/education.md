@@ -11,7 +11,7 @@ author_profile: true
 
 - Advisor: [Dr. Hassan Daghigh   ](https://faculty.kashanu.ac.ir/daghigh/en)
 
-- **Total GPA: 3.54/4**  (Ranked $1^s{^t}$ among all students of B.Sc. in computer science entered in 2019 )
+- **Total GPA: 3.54/4**  (Ranked $1^s{^t}$ among all students of B.Sc. in my graduating class)
 
 - Highlighted Courses:
    - Fundamentals of Computer Programming & Lab: 4/4

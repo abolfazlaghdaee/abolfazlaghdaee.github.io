@@ -4,6 +4,14 @@ title:  ""
 permalink: /certificates/
 author_profile: true
 ---
+## Summer School
+
+|                               |                                 |
+|:-----------------------------:|:-------------------------------:|
+| ![](/images/summerschool.png)  AI / Machine Learning Summer School |             |
+
+
+
 ## Conference & Workshops
 
 
@@ -11,7 +19,7 @@ author_profile: true
 |:-----------------------------:|:-------------------------------:|:-----------------------------:|
  |![](/images/airways.png)      |![](/images/UT55.png)            |![](/images/InventionWorkshop.png)   |
 
-
+-------------------------
 ## Certificates
 
 |                               |                                 |                               |    
