@@ -26,7 +26,7 @@ transformation, and feature engineering, which significantly improved model perf
 accuracy.
 > Jun2023 – Jul 2023
 >
-> ### Energy Research Institute, University of Kashan, Kashan
+> Energy Research Institute, University of Kashan, Kashan
 ****************
 
 
