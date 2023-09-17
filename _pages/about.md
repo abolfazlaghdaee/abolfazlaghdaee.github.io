@@ -15,10 +15,9 @@ redirect_from:
 ul.twocol { width: 110%; }
 </style>
  
-I am last-year student of Computer Science at [University of Kashan](https://kashanu.ac.ir/en). 
+I am a senior student of Computer Science at [University of Kashan](https://kashanu.ac.ir/en). 
 under the supervision of     
  [Dr. Hassan Daghigh](https://faculty.kashanu.ac.ir/daghigh/en).
 
-I would like to work on the implementation applications of Machine Learning; To utilize my knowledge in
-applied Machine Learning and Computer Vision in a challenging research position.
+
 
