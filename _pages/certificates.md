@@ -6,10 +6,15 @@ author_profile: true
 ---
 ## Summer School
 
-|                               |                                 |
-|:-----------------------------:|:-------------------------------:|
-| ![](/images/summerschool.png)  AI / Machine Learning Summer School |             |
 
+
+
+
+<img src="../images/summerschool.png" width="400" size="auto" alt="weka">
+
+<!-- |                               |                                 |
+|:-----------------------------:|:-------------------------------:|
+| ![](../images/summerschool.png )  CCAI / Machine Learning Summer School |             | -->
 
 
 ## Conference & Workshops

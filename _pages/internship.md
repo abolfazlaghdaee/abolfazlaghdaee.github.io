@@ -13,7 +13,7 @@ author_profile: true
 - Defining classification models to predict customer buying behavior.
 > Aug 2023
 >
-> Virtual Program
+> Virtual Programme
 
 ***********************
 
