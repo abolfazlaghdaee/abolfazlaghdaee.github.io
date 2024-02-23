@@ -11,15 +11,17 @@ author_profile: true
 
 - Advisor: [Dr. Hassan Daghigh   ](https://faculty.kashanu.ac.ir/daghigh/en)
 
-- **Total GPA: 3.54/4**  (Ranked $1^s{^t}$ among all students of B.Sc. in my graduating class)
+- **Total GPA: 3.6/4**  (Ranked $1^s{^t}$ among all students of B.Sc. in my graduating class)
 
 - Highlighted Courses:
+   - Artificial Intelligence: 4/4
+   - Data Mining: 4/4
    - Fundamentals of Computer Programming & Lab: 4/4
    - Numerical Linear Algebra: 4/4
    - Operating Systems: 4/4
    - Algorithm Design: 4/4
    - Numerical Analysis: 4/4
-   - Fudamentals of Probability : 4/4
+   - Fundamentals of Probability : 4/4
    - DataBase Lab: 4/4
    - DataBase: 4/4
    - Fundamentals of Compiler: 4/4
@@ -29,8 +31,3 @@ author_profile: true
    - Basics of Logic and Set Theory: 4/4
    - Introduction to Combinatorics: 4/4
 
-
-## Diploma in Mathematics and Physics at Haj Abbas Karim High School
-
-
-- **GPA: 4/4**

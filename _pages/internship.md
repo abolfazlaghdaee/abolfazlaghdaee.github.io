@@ -15,7 +15,8 @@ author_profile: true
 >
 > Virtual Programme
 
-***********************
+<hr style="border:0.px solid black"> 
+
 
 ## Machine Learning Intern
 - I Proficiently utilized Scikit-Learn library to implement various traditional machine learning algorithms,
@@ -27,6 +28,7 @@ accuracy.
 > Jun2023 – Jul 2023
 >
 > Energy Research Institute, University of Kashan, Kashan
+
 
 ****************
 

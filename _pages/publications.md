@@ -21,6 +21,6 @@ Authors: Abolfazl Aghdaee, [Dr. GH Fath-tabar](https://scholar.google.com/citati
 _[The $4^t{^h}$ Conference on Computational Algebra, Computational Number Theory and Applications](https://cacna2023.kashanu.ac.ir/en/index.php)_
 
 
-> In this research, I have developed a novel algorithm using Python to determine the graph matrix of the Polythiophene. 
+> In this research, innovated a novel algorithm using Python to ascertain the corresponding matrix of the Polythiophene graph. 
 
 July 2023

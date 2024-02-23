@@ -9,10 +9,11 @@ location: "Kashan"
 ---
 
 
-Instructor: Dr. SoheilShamee
+Instructor: Dr. Soheil-Shamee
 ---------
 
 *Fall 2022*
+********************
 
 ## Responsibilities:
 - Teaching Students in the Class

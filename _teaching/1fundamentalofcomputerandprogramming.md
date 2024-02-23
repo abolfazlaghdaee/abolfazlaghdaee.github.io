@@ -7,9 +7,10 @@ venue: "University of Kashan, Department of Mathematics, Statictics and Computer
 date: 2022-01-01
 location: "Kashan"
 ---
-Instructor: Dr. SoheilShamee
+Instructor: Dr. Soheil-Shamee
 
 *Spring 2022*
+********************
 
 ## Responsibilities:
 - Teaching Students in the Class
