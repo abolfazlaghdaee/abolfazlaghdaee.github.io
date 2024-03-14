@@ -32,12 +32,12 @@ author_profile: true
 
 |                               |                                 |                               |    
 |:-----------------------------:|:-------------------------------:|:-----------------------------:|
-|  ![](/images/introcv.png)|![](/images/andrew1.png)       |   ![](/images/advancedML.png)   |   
-|![](/images/udemy.png)    |    ![](/images/Aiforall.png)  |  ![](/images/skcoursera.png)    |
+| ![](/images/cnn.png)  |   ![](/images/introcv.png)    |  ![](/images/andrew1.png)    |   
+|  ![](/images/advancedML.png) |    ![](/images/Aiforall.png)  |  ![](/images/skcoursera.png)    |
 |![](/images/MLKaggle.png) |  ![](/images/PandasKaggle.png)|  ![](/images/VisualKaggle.png)  |
 |![](/images/MLsolo.jpg)   |    ![](/images/sql.png)       |  ![](/images/c++.png)           |
 |![](/images/IntrotoDeepLearning.png)|![](/images/intermediateML.png)|![](/images/type.png)  |
-|![](/images/type.png)     | ![](/images/DSMichigan.png)             |                       |
+|![](/images/type.png)     | ![](/images/DSMichigan.png)             |        ![](/images/udemy.png)                |
   
 
 

@@ -13,7 +13,6 @@ Instructor: Dr. Soheil-Shamee
 ---------
 
 *Fall 2022*
-********************
 
 ## Responsibilities:
 - Teaching Students in the Class

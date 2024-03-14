@@ -7,7 +7,7 @@ author_profile: true
 
 # Bachelor of Computer Science at [University of Kashan](https://kashanu.ac.ir/en)
 
-*Sep 2019 – March 2024 (Expected)*
+*Sep 2019 – Oct 2024 (Expected)*
 
 - Advisor: [Dr. Hassan Daghigh   ](https://faculty.kashanu.ac.ir/daghigh/en)
 

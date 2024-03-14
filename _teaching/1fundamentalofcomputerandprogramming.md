@@ -10,7 +10,7 @@ location: "Kashan"
 Instructor: Dr. Soheil-Shamee
 
 *Spring 2022*
-********************
+
 
 ## Responsibilities:
 - Teaching Students in the Class

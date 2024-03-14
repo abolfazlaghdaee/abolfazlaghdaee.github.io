@@ -30,15 +30,7 @@ accuracy.
 > Energy Research Institute, University of Kashan, Kashan
 
 
-****************
-
-
-## [Upkey](https://drive.google.com/file/d/1-XOX1dySZ4QR7vfi11Hxo2gkxduBvVsX/view?usp=sharing)
-- During the internship, I actively pursued to enhance my soft skills like Marketing, Teamwork, Managerial
-functions, and Entrepreneurship.
->Aug 2021 – Sep 2021
->
-> Virtual Program
+<hr style="border:0.px solid black">
 
 
 

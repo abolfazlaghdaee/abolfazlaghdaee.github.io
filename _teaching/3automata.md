@@ -13,7 +13,6 @@ location: "Kashan"
 Instructor: Dr. Asaeedi
 
 *Spring 2023*
-********************
 
 
 ## Responsibilities:
