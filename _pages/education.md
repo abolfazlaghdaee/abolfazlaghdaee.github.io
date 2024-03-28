@@ -4,16 +4,24 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LGGKWQJXSW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-LGGKWQJXSW');
+</script>
 # Bachelor of Computer Science at [University of Kashan](https://kashanu.ac.ir/en)
 
-*Sep 2019 – Oct 2024 (Expected)*
+*Sep 2019 – Present*
 
 - Advisor: [Dr. Hassan Daghigh   ](https://faculty.kashanu.ac.ir/daghigh/en)
 
-- **Total GPA: 3.6/4**  (Ranked $1^s{^t}$ among all students of B.Sc. in my graduating class)
+- **Total GPA: 3.6/4**  
 
-- Highlighted Courses:
+<!-- - Highlighted Courses:
    - Artificial Intelligence: 4/4
    - Data Mining: 4/4
    - Fundamentals of Computer Programming & Lab: 4/4
@@ -30,4 +38,4 @@ author_profile: true
    - Introductory Linear Algebra & Matrices: 4/4
    - Basics of Logic and Set Theory: 4/4
    - Introduction to Combinatorics: 4/4
-
+ -->
