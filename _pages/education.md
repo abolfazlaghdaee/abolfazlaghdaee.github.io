@@ -19,7 +19,8 @@ author_profile: true
 
 - Advisor: [Dr. Hassan Daghigh   ](https://faculty.kashanu.ac.ir/daghigh/en)
 
-- **Total GPA: 3.6/4**  
+- **Total GPA: 3.6/4**
+- **Last four semesters: 4/4**  
 
 <!-- - Highlighted Courses:
    - Artificial Intelligence: 4/4

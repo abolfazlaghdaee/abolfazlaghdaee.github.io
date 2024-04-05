@@ -16,7 +16,8 @@ main:
   - title: "Certificates & Workshops"
     url: /certificates/
  
-
+  - title: "Gallery"
+    url: /gallery/
 
     
   - title: "CV"

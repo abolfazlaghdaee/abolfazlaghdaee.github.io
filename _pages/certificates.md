@@ -4,7 +4,7 @@ title:  ""
 permalink: /certificates/
 author_profile: true
 ---
-## Summer School
+## AI Summer School
 
 
 
@@ -20,9 +20,10 @@ author_profile: true
 ## Conference & Workshops
 
 
-|                               |                                 |                               |    
-|:-----------------------------:|:-------------------------------:|:-----------------------------:|
- |![](/images/airways.png)      |![](/images/UT55.png)            |![](/images/InventionWorkshop.png)   |
+|                               |             |                       |                           
+|:-----------:|:--------------------:|:-------------:|
+ |![](/images/airways.png)      |![](/images/UT55.png)      |![](/images/InventionWorkshop.png)   | 
+ |![alt text](/images/Cacna.png)|         |                           | |
 
 -------------------------
 ## Certificates
@@ -33,11 +34,13 @@ author_profile: true
 |                               |                                 |                               |    
 |:-----------------------------:|:-------------------------------:|:-----------------------------:|
 | ![](/images/cnn.png)  |   ![](/images/introcv.png)    |  ![](/images/andrew1.png)    |   
-|  ![](/images/advancedML.png) |    ![](/images/Aiforall.png)  |  ![](/images/skcoursera.png)    |
+|  ![](/images/advancedML.png) |    ![](/images/Aiforall.png)  | ![](/images/pytroch.jpg) |
 |![](/images/MLKaggle.png) |  ![](/images/PandasKaggle.png)|  ![](/images/VisualKaggle.png)  |
 |![](/images/MLsolo.jpg)   |    ![](/images/sql.png)       |  ![](/images/c++.png)           |
 |![](/images/IntrotoDeepLearning.png)|![](/images/intermediateML.png)|![](/images/type.png)  |
 |![](/images/type.png)     | ![](/images/DSMichigan.png)             |        ![](/images/udemy.png)                |
+|![](/images/skcoursera.png)      |             |                   |
+    
   
 
 
