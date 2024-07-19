@@ -10,12 +10,10 @@ location: "Kashan"
 
 
 
-Instructor: Dr. Asaeedi
+Instructor: Dr. Shamaee
 
-*Spring 2023*
+*Spring 2024*
 
 
 ## Responsibilities:
 - Teaching Students in the Class
-- Helping Students with Their Assignments
-- Preparing Homeworks and Grading Them ([Link to GitHub](https://github.com/abolfazlaghdaee/Automata401-2))

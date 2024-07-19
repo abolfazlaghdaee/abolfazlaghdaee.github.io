@@ -4,7 +4,15 @@ title: "Internship"
 permalink: /internship/
 author_profile: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y2G8Y5C4K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-8Y2G8Y5C4K');
+</script>
 
 ## [Data Science Virtual Experience Programme](https://drive.google.com/file/d/1EwAnJL6aCksZyZEfkkHkDRcdhZj7ogyi/view)
 

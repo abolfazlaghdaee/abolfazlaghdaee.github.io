@@ -4,7 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8Y2G8Y5C4K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-8Y2G8Y5C4K');
+</script>
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -14,6 +22,13 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+
+### Ventilation Fan Fault Diagnosis With Audio Signal Processing by Machine Learning
+
+In progress
+
+----
 
 ### Finding the Wiener of Polythiophene's Graph and Providing a Third-Degree Polynomial Formula.
 Authors: Abolfazl Aghdaee, [Dr. GH Fath-tabar](https://scholar.google.com/citations?user=doa3Y-YAAAAJ&hl=en)
