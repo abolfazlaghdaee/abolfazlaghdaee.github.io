@@ -21,7 +21,8 @@ author_profile: true
 
 <!-- - Advisor: [Dr. Hassan Daghigh   ](https://faculty.kashanu.ac.ir/daghigh/en) -->
 
-- **Last five semesters GPA: 3.95/4**
+- **Last five semesters GPA: 3.96/4**
+- **Totla GPA: 3.65/4**
 <!-- - 18.63 -->
 <!-- - **Total GPA: 3.65/4**   -->
 

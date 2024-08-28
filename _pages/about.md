@@ -33,7 +33,7 @@ I have a profound passion for continuing my academic journey at the graduate lev
 
 ## My Home Town Kashan
 
-Kashan, a city steeped in history and culture in central Iran, also boasts a notable academic and scientific environment. One of its distinguished figures in the realm of mathematics is Ghiasad-din Jamshid Kashani.
+Kashan, a city steeped in history and culture in central Iran, also boasts a notable academic and scientific environment. One of its distinguished figures in the realm of mathematics is ***Ghiasad-din Jamshid Kashani.***
 
 
 

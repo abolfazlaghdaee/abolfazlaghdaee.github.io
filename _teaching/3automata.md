@@ -10,7 +10,7 @@ location: "Kashan"
 
 
 
-Instructor: Dr. Shamaee
+Instructor: Dr. Asaeedi
 
 *Spring 2024*
 

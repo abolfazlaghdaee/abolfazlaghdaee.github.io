@@ -33,6 +33,7 @@ author_profile: true
 
 |                               |                                 |                               |    
 |:-----------------------------:|:-------------------------------:|:-----------------------------:|
+|  ![](/images/NeuralNetworks.png)  |    ![](/images/ImproDNNs.png)   |   ![](/images/StructuringMLProjects.png)  
 | ![](/images/cnn.png)  |   ![](/images/introcv.png)    |  ![](/images/andrew1.png)    |   
 |  ![](/images/advancedML.png) |    ![](/images/Aiforall.png)  | ![](/images/pytroch.jpg) |
 |![](/images/MLKaggle.png) |  ![](/images/PandasKaggle.png)|  ![](/images/VisualKaggle.png)  |

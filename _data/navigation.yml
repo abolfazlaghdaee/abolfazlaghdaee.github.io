@@ -13,7 +13,7 @@ main:
   - title: "Internships"
     url: /internship/    
 
-  - title: "Certificates & Workshops"
+  - title: "Online Courses & Certificates"
     url: /certificates/
 
   - title: "Projects"
@@ -24,7 +24,7 @@ main:
     url: /gallery/
 
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
 

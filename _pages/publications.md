@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-### Ventilation Fan Fault Diagnosis With Audio Signal Processing by Machine Learning
+### Ventilation Fan Fault Diagnosis With Audio Signal Processing by Machine Learning.
 
 In progress
 
