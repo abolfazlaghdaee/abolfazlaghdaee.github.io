@@ -5,13 +5,16 @@
     <meta charset="UTF-8" />
   </head>
   <body>
-    <div id="app">
-      <iframe
-        src="https://drive.google.com/file/d/1Q7KJSc3ssiDpzAo4CH9M6CNQJ7QLi4xy/view?usp=sharing"
-        width="100%"
-        height="450"
-      >
-      </iframe>
-    </div>
+    <div id="viewer" style="width: 100%; height: 500px;"></div>
+    <script type="text/javascript" src="https://cloudpdf.io/viewer.min.js"></script>
+    <script>
+      const config = { 
+        documentId: '0fcfdcb0-3dc0-46eb-9afd-bf04677b3f3e',
+        darkMode: true, 
+      };
+      CloudPDF(config, document.getElementById('viewer')).then((instance) => {
+        
+      });
+    </script>
   </body>
 </html>
