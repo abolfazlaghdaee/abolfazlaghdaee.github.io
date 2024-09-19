@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://drive.google.com/file/d/1Q7KJSc3ssiDpzAo4CH9M6CNQJ7QLi4xy/view?usp=sharing" 
-        width="100%" height="600px"></iframe>
+{% include CV.html %}
