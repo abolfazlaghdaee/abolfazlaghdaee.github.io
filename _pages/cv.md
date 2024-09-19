@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-
-
-Available [here](https://www.linkedin.com/in/ablfzl)
+{% include embed-ppdf.html %}
