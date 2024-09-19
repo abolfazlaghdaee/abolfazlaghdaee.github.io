@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include embed-ppdf.html %}
+{% include CV.html %}
