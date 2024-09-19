@@ -1,18 +1,18 @@
-<!-- <!DOCTYPE html> -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embedded PDF</title>
+    <title>CV</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
 
 </head>
+
 <body>
     <canvas id="pdf-canvas"></canvas>
 
-
     <script>
-        var url = '../_pages/CV.pdf';
+        var url = "../_pages/CV.pdf";
     
         // Asynchronous download of the PDF
         var loadingTask = pdfjsLib.getDocument(url);
