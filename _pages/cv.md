@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 --- -->
 
-{% include CV.html %}
+<!-- {% include CV.html %} -->
