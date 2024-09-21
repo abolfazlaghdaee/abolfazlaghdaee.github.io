@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "CV"
-permalink: /CV_Abolfazl/
+permalink: /CV_Aghdaee/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 
-{% include CVC.html %}
+{% include cvn.html %}
