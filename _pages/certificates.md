@@ -33,14 +33,14 @@ author_profile: true
 
 |                               |                                 |                               |    
 |:-----------------------------:|:-------------------------------:|:-----------------------------:|
-|  ![](/images/NeuralNetworks.png)  |    ![](/images/ImproDNNs.png)   |   ![](/images/StructuringMLProjects.png)  
-| ![](/images/cnn.png)  |   ![](/images/introcv.png)    |  ![](/images/andrew1.png)    |   
-|  ![](/images/advancedML.png) |    ![](/images/Aiforall.png)  | ![](/images/pytroch.jpg) |
+|  ![](/images/specialization.png)  |    ![](/images/ImproDNNs.png)   |   ![](/images/StructuringMLProjects.png)  
+| ![](/images/cnn.png)  |   ![](/images/introcv.png)    |   ![](/images/NeuralNetworks.png)   |   
+|  ![](/images/advancedML.png) |    ![](/images/andrew1.png)  | ![](/images/pytroch.jpg) |
 |![](/images/MLKaggle.png) |  ![](/images/PandasKaggle.png)|  ![](/images/VisualKaggle.png)  |
 |![](/images/MLsolo.jpg)   |    ![](/images/sql.png)       |  ![](/images/c++.png)           |
 |![](/images/IntrotoDeepLearning.png)|![](/images/intermediateML.png)|![](/images/type.png)  |
 |![](/images/type.png)     | ![](/images/DSMichigan.png)             |        ![](/images/udemy.png)                |
-|![](/images/skcoursera.png)      |             |                   |
+|![](/images/skcoursera.png)      |    ![](/images/aiforall.png)          |                   |
     
   
 

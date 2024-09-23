@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WM192RPMWR"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -25,11 +24,9 @@ redirect_from:
 ul.twocol { width: 110%; }
 </style>
  
-I’m about to graduate with a Bachelor's degree in Computer Science from University of Kashan. My academic focus has been on Machine Learning and Deep Learning under the guidance of [Dr. Daghigh.](https://faculty.kashanu.ac.ir/daghigh/en)
-Throughout my academic journey, I’ve had the opportunity to gain valuable experience as a teaching assistant. This role not only honed my instructional skills but also deepened my understanding of complex concepts. My passion for research has driven me to actively engage as a research assistant, contributing to several research papers in my field.
-Currently, I am in the process of selecting an impactful topic for my bachelor’s thesis, aiming to explore new frontiers in Machine Learning and Deep Learning.
-I have a profound passion for continuing my academic journey at the graduate level, where I can deepen my expertise and contribute to groundbreaking research.
 
+
+I'm about to graduate with a Bachelor's in Computer Science from the University of Kashan, focusing on Machine Learning and Deep Learning under the guidance of [Dr. Daghigh.](https://faculty.kashanu.ac.ir/daghigh/en) I've worked as a teaching assistant and research assistant, contributing to several research papers. Currently, I'm selecting a topic for my thesis, aiming to explore new areas in these fields, with plans to pursue graduate studies.
 
 ## My Home Town Kashan
 
@@ -38,7 +35,7 @@ Kashan, a city steeped in history and culture in central Iran, also boasts a not
 
 
 ## Ghiasad-din Jamshid Kashani: A Mathematical Luminary
-Among the most celebrated figures from Kashan is Ghiasad-din Jamshid Kashani, a prominent mathematician and astronomer of the 15th century. Kashani made substantial contributions to the fields of trigonometry, arithmetic, and astronomy. His most famous work, the Zij-i Chadhaghayi, is a comprehensive astronomical table that was widely used for centuries. Kashani’s meticulous calculations and innovative methods established him as a leading mathematician of his time, and his legacy continues to inspire scholars and researchers today.
+Ghiasad-din Jamshid Kashani (c. 1380–1429) was a brilliant Persian mathematician and astronomer known for his advancements in arithmetic, trigonometry, and precise astronomical calculations. His work, including the widely used ***Zij-i Chadhaghayi***, significantly influenced later scholars, cementing his legacy as one of the greatest mathematicians of his time.
 
 
 ##  University of Kashan: A Modern Center of Learning

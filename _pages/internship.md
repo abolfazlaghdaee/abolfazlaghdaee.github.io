@@ -5,7 +5,6 @@ permalink: /internship/
 author_profile: true
 ---
 
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WM192RPMWR"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
