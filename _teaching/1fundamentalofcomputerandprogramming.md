@@ -6,11 +6,11 @@ permalink: /teaching/fundamentalofcomputerandprogramming
 venue: "University of Kashan, Department of Mathematics, Statictics and Computer Science"
 date: 2022-01-01
 location: "Kashan"
------
+
 ---
 Instructor: Dr. Soheil-Shamee
 
----
+
 
 
 *Spring 2022*
