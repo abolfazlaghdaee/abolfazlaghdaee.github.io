@@ -28,15 +28,25 @@ author_profile: true
 
 ## Highlighted Courses:
 
-- Computational Intelligence: 4/4
-- Artificial Intelligence: 4/4
-- Data Mining: 4/4
-- Fundamentals of Computer Programming & Lab: 4/4
-- Numerical Linear Algebra: 4/4
-- Operating Systems: 4/4
-- Algorithm Design: 4/4
-- Numerical Analysis: 4/4
-- Fundamentals of Probability: 4/4
-- Database Lab: 4/4
-- Introductory Linear Algebra & Matrices: 4/4
+- Computational Intelligence: 20/20
+- Artificial Intelligence: 19.65/20
+- Data Mining: 20/20
+- Fundamentals of Computer Programming & Lab: 20/20
+- Numerical Linear Algebra: 20/20
+- Operating Systems: 20/20
+- Algorithm Design: 19.36/20
+- Foundations of Numerical Analysis: 18.50/20
+- Elementary Probability Theory: 18.45/20
+- Database Lab: 18/20
+- Introductory Linear Algebra & Matrices: 17/20
+- Basics of Software Design: 17.58/20
+- Fundamentals of Mathematical Analysis: 18/20
+- Theory of Computions: 18.05/20
+- Programming Languages: 17.50/20
+- Topics on Computer Science: 17/20
+- Computer Workshop I: 19.75/20
+- Data Base: 17.55/20
+- Compilers: 19.75/20
+- Specialized English: 19/20
+- Electronics I: 20/20
 

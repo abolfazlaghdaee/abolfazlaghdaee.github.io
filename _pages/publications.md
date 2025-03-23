@@ -16,18 +16,16 @@ author_profile: true
 
 
 
-### Ventilation Fan Fault Diagnosis With Audio Signal Processing by Machine Learning.
-
-In progress
-
-----
-
-### Finding the Wiener of Polythiophene's Graph and Providing a Third-Degree Polynomial Formula (In Persian).
-Authors: Abolfazl Aghdaee, [Dr. GH Fath-tabar](https://scholar.google.com/citations?user=doa3Y-YAAAAJ&hl=en)
-
-_[The $4^t{^h}$ Conference on Computational Algebra, Computational Number Theory and Applications](https://cacna2023.kashanu.ac.ir/en/index.php)_
 
 
-> In this research, I developed __a novel Python algorithm__ to determine the corresponding matrix of the Polythiophene graph, which is a crucial step in calculating the Wiener index 
+####  M. Pashaei, **A. Aghdaee**, M. Arani. *Audio-Based Fault Diagnosis of Ventilation Fans Using Machine Learning Algorithm.* Presented at the 14th International Conference on Acoustics and Vibration(ISAV2024) [[Link]](https://en.civilica.com/doc/2170999/)
 
-July 2023
+
+---
+
+- **A. Aghdaee**, Gh. Fath-Tabar. *Finding the Wiener Index of Polythiophene Graph and Providing a Third-Degree Polynomial*(Persian). Presented at the 4th International Conference on Computational Algebra, Computational Number Theory and Applications(CACNA2023) [Link](https://drive.google.com/file/d/1ijPwi6XElrjCh1mir3ZM9eSYovHN-tKY/view?usp=sharing)
+
+---
+
+- A. Rahimi, **A. Aghdaee**, M. Shamaee, Gh. Fath-Tabar. *Disseminating Information Across a Network: an
+      Evolutionary Study.*  In Prep. [[Draft]](https://drive.google.com/file/d/1VFVdfwxT6n82iyS2yd4kaqUbOWQNK92Y/view?usp=drive_link)
